@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932561146751",
+    "project_id": "app-dr-pay",
+    "storage_bucket": "app-dr-pay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932561146751:android:8bf9fd85d57fec1a18804a",
+        "android_client_info": {
+          "package_name": "dr.pay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ipQV7dcjj2l_UWjbwbIjCCxJ6s5iwv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
